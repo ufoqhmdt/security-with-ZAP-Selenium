@@ -1,0 +1,8 @@
+# hibernate
+hibernate.connection.driverClass=com.mysql.jdbc.Driver
+hibernate.connection.url=jdbc:mysql://localhost:3306/p2pcloud
+hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+hibernate.connection.username=ufo
+hibernate.connection.password=ufoqhmdt
+hibernate.show_sql=true
+hibernate.hbm2ddl.auto=update
